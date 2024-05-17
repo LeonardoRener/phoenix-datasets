@@ -21,6 +21,6 @@ setup(
         "pandarallel",
         "arpa",
     ],
-    url="https://github.com/enhuiz/phoenix_datasets",
+    url="https://github.com/LeonardoRener/phoenix_datasets",
     package_data={"phoenix_datasets": ["data/*"]},
 )
